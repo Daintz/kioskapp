@@ -37,5 +37,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##Deploying this application
-<a href="kioskapp.vercel.app">kioskapp.vercel.app</a>
+## Deploying this application
+<a href="https://kioskapp.vercel.app/">kioskapp.vercel.app</a>
